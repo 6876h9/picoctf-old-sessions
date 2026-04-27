@@ -1,9 +1,9 @@
 # picoCTF — Old Sessions
 
-**Challenge Author:** David Gaviria
-**Solved by:** 6876h9
+**Challenge Author:** David Gaviria  
+**Solved by:** 6876h9  
 **Category:** Web Exploitation  
-**Difficulty:** Medium  
+**Difficulty:** Easy
 **Points:** Not disclosed  
 **Status:** Solved
 
