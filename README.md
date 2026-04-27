@@ -1,6 +1,7 @@
 # picoCTF — Old Sessions
 
-**Author:** 6876h9  
+**Challenge Author:** David Gaviria
+**Solved by:** 6876h9
 **Category:** Web Exploitation  
 **Difficulty:** Medium  
 **Points:** Not disclosed  
@@ -94,10 +95,10 @@ The page was refreshed. The application accepted the substituted cookie and auth
 Upon successful session hijack, the application rendered the flag on the homepage under the admin account.
 
 ```
-picoCTF{s3t_s3ss10n_[REDACTED]}
+picoCTF{s3t_s3ss10n_3xp1rat10n5_10f20509}
 ```
 
-> The flag has been partially redacted in this writeup. Full flag retained privately.
+> 
 
 ---
 
